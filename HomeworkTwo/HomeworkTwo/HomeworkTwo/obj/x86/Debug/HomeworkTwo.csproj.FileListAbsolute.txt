@@ -1,0 +1,23 @@
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\Content\fish.png
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\Content\me tho.png
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\HomeworkTwo.exe
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\HomeworkTwo.pdb
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\MonoGame.Framework.dll
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\OpenTK.dll
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.exe
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.pdb
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.exe
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.pdb
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\Content\fish.png
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\Content\me tho.png
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\HomeworkTwo.exe
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\HomeworkTwo.pdb
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\iv6703\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.csprojResolveAssemblyReference.cache
+D:\Profiles\iv6703\HomeworkTwo\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.exe
+D:\Profiles\iv6703\HomeworkTwo\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.pdb
+D:\Profiles\iv6703\HomeworkTwo\HomeworkTwo\HomeworkTwo\obj\x86\Debug\HomeworkTwo.csprojResolveAssemblyReference.cache
